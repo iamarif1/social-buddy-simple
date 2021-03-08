@@ -1,0 +1,9 @@
+.style{
+    border:3px solid tomato;
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
